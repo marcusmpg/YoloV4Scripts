@@ -3,8 +3,8 @@
 import DuckDuckGoImages as ddg		#pip install DuckDuckGoImages
 
 
-filtro = 'lâmpada'
-destino = '/home/ericluque/lampadas/dataset'
+filtro = 'carro'
+destino = '/user/marcus/tcc/dataset'
 
 print('Iniciando downloads...')
 try:
